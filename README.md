@@ -87,7 +87,7 @@ src/
 
     - A responsive Navbar from React-Bootstrap.
 
-    - A main Heading (<h1>).
+    - A main Heading.
 
     - Three Card components, showcasing how to use props like title, text, and buttonText.
 ---
